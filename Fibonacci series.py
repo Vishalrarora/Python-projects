@@ -1,5 +1,3 @@
-Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 >>> def fib(n):
 ...     a = 0
 ...     b = 1
@@ -25,9 +23,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... 
 ...     
 >>> main()
-How many numbers do you need? 5
-0
-1
-1
-2
-3
